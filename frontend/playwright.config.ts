@@ -10,7 +10,7 @@ export default defineConfig({
   },
   webServer: [
     {
-      command: 'cd .. && .venv/bin/frame-trace demo && .venv/bin/frame-trace serve',
+      command: 'cd .. && frame-trace demo && frame-trace serve',
       url: 'http://127.0.0.1:8000/health',
       reuseExistingServer: true
     },
