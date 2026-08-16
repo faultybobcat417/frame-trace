@@ -1,0 +1,2 @@
+[console_scripts]
+frame-trace = frame_trace.cli:app

@@ -1,0 +1,17 @@
+{
+  "note": "Deterministic logic fixture. SVG avatars are UI fixtures, not SFace outputs.",
+  "personas": [
+    "P001",
+    "P002",
+    "P003",
+    "P004",
+    "P005",
+    "P006"
+  ],
+  "sources": [
+    "S001",
+    "S002",
+    "S003",
+    "S004"
+  ]
+}
