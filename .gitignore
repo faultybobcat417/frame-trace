@@ -12,3 +12,7 @@ playwright-report/
 test-results/
 .DS_Store
 *.part
+*.egg-info/
+*.tsbuildinfo
+frontend/vite.config.js
+frontend/vite.config.d.ts
